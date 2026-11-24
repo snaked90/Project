@@ -35,8 +35,8 @@
 
 ```
 OrbitalStation.sln
-├── src/OrbitalStation/
-└── tests/OrbitalStation.Tests/
+├── OrbitalStation/
+└── OrbitalStation.Tests/
 ```
 
 ## Запуск тестів
